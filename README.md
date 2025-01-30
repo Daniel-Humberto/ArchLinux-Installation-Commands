@@ -1,2 +1,2 @@
 # ArchPlasmaInstall
-Comandos para la Instalacion de Arch Linux en VirtualBox, con el comando archinstall, con el entorno de escritorio KDE Plasma. Se instalo Firefox, Neofetch, Konsole, y plasma-meta durante la instalacio
+Comandos para instalacion rapida de Arch Linux con el comando "archinstall" con el entorno de escritorio KDE Plasma. Los comandos tambien incluyen la instalcion de Firefox, Neofetch, Konsole, y plasma-meta.
