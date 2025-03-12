@@ -9,5 +9,3 @@ Arranca desde la ISO de Arch Linux y ejecuta el siguiente comando para iniciar e
 
 ```bash
 archinstall
-
----
