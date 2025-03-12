@@ -1,4 +1,4 @@
-#  Instalar Arch
+#  Instalar Arch Linux
 archinstall
 
 
